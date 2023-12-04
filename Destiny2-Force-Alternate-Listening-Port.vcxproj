@@ -149,7 +149,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Destiny2-Force-Alternate-Listening-Port.c" />
+    <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include=".gitignore" />
